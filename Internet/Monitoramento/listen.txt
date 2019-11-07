@@ -1,0 +1,53 @@
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 localhost:domain        0.0.0.0:*               LISTEN     
+tcp        0      0 localhost:ipp           0.0.0.0:*               LISTEN     
+tcp6       0      0 ip6-localhost:ipp       [::]:*                  LISTEN     
+udp        0      0 224.0.0.251:mdns        0.0.0.0:*                          
+udp        0      0 224.0.0.251:mdns        0.0.0.0:*                          
+udp        0      0 0.0.0.0:mdns            0.0.0.0:*                          
+udp        0      0 0.0.0.0:40446           0.0.0.0:*                          
+udp        0      0 localhost:domain        0.0.0.0:*                          
+udp        0      0 0.0.0.0:bootpc          0.0.0.0:*                          
+udp        0      0 0.0.0.0:ipp             0.0.0.0:*                          
+udp6       0      0 [::]:mdns               [::]:*                             
+udp6       0      0 [::]:49781              [::]:*                             
+raw6       0      0 [::]:ipv6-icmp          [::]:*                  7          
+Active UNIX domain sockets (only servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  2      [ ACC ]     STREAM     LISTENING     495227   @/tmp/.ICE-unix/6956
+unix  2      [ ACC ]     SEQPACKET  LISTENING     1744     /run/udev/control
+unix  2      [ ACC ]     STREAM     LISTENING     493541   /run/user/1000/systemd/private
+unix  2      [ ACC ]     STREAM     LISTENING     493545   /run/user/1000/gnupg/S.dirmngr
+unix  2      [ ACC ]     STREAM     LISTENING     493546   /run/user/1000/gnupg/S.gpg-agent
+unix  2      [ ACC ]     STREAM     LISTENING     493547   /run/user/1000/bus
+unix  2      [ ACC ]     STREAM     LISTENING     493548   /run/user/1000/gnupg/S.gpg-agent.ssh
+unix  2      [ ACC ]     STREAM     LISTENING     493549   /run/user/1000/gnupg/S.gpg-agent.browser
+unix  2      [ ACC ]     STREAM     LISTENING     493550   /run/user/1000/gnupg/S.gpg-agent.extra
+unix  2      [ ACC ]     STREAM     LISTENING     493552   /run/user/1000/keyring/control
+unix  2      [ ACC ]     STREAM     LISTENING     27657    @irqbalance714.sock
+unix  2      [ ACC ]     STREAM     LISTENING     494075   /run/user/1000/keyring/pkcs11
+unix  2      [ ACC ]     STREAM     LISTENING     494079   /run/user/1000/keyring/ssh
+unix  2      [ ACC ]     STREAM     LISTENING     496926   /run/user/1000/pulse/native
+unix  2      [ ACC ]     STREAM     LISTENING     20245    /run/acpid.socket
+unix  2      [ ACC ]     STREAM     LISTENING     20247    /run/avahi-daemon/socket
+unix  2      [ ACC ]     STREAM     LISTENING     20249    /run/uuidd/request
+unix  2      [ ACC ]     STREAM     LISTENING     492336   @/tmp/.X11-unix/X0
+unix  2      [ ACC ]     STREAM     LISTENING     1679269  /run/user/1000/keyring/.ssh
+unix  2      [ ACC ]     STREAM     LISTENING     495198   /tmp/ssh-NHKYy1hjvCEl/agent.6956
+unix  2      [ ACC ]     STREAM     LISTENING     495228   /tmp/.ICE-unix/6956
+unix  2      [ ACC ]     STREAM     LISTENING     544039   /tmp/.org.chromium.Chromium.Mw6usI/SS
+unix  2      [ ACC ]     STREAM     LISTENING     1617073  /tmp/ssh-cF2a58ulMvSa/agent.15141
+unix  2      [ ACC ]     STREAM     LISTENING     1617089  /tmp/ssh-ttJ7NnpA7Nui/agent.15160
+unix  2      [ ACC ]     STREAM     LISTENING     1861274  /tmp/.com.google.Chrome.2Cxrkt/SingletonSocket
+unix  2      [ ACC ]     STREAM     LISTENING     1887881  /run/cups/cups.sock
+unix  2      [ ACC ]     STREAM     LISTENING     28949    /run/NetworkManager/private-dhcp
+unix  2      [ ACC ]     STREAM     LISTENING     758968   /tmp/qtsingleapp-zoom-3e8
+unix  2      [ ACC ]     STREAM     LISTENING     492337   /tmp/.X11-unix/X0
+unix  2      [ ACC ]     STREAM     LISTENING     1723     /run/systemd/private
+unix  2      [ ACC ]     STREAM     LISTENING     1734     /run/systemd/fsck.progress
+unix  2      [ ACC ]     STREAM     LISTENING     1742     /run/lvm/lvmetad.socket
+unix  2      [ ACC ]     STREAM     LISTENING     1748     /run/lvm/lvmpolld.socket
+unix  2      [ ACC ]     STREAM     LISTENING     1752     /run/systemd/journal/stdout
+unix  2      [ ACC ]     STREAM     LISTENING     23020    /var/run/dbus/system_bus_socket
+unix  2      [ ACC ]     STREAM     LISTENING     495699   @/tmp/dbus-uBTh6SFWll

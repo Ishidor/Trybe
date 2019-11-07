@@ -1,0 +1,15 @@
+{
+  "args": {}, 
+  "data": "", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.58.0"
+  }, 
+  "json": null, 
+  "method": "DELETE", 
+  "origin": "177.74.232.139, 177.74.232.139", 
+  "url": "https://httpbin.org/anything"
+}

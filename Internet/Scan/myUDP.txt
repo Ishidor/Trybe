@@ -1,0 +1,17 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2019-11-07 17:31 -03
+Stats: 0:00:03 elapsed; 0 hosts completed (1 up), 1 undergoing UDP Scan
+UDP Scan Timing: About 9.57% done; ETC: 17:31 (0:00:38 remaining)
+Stats: 0:00:04 elapsed; 0 hosts completed (1 up), 1 undergoing UDP Scan
+UDP Scan Timing: About 10.07% done; ETC: 17:31 (0:00:45 remaining)
+Stats: 0:01:27 elapsed; 0 hosts completed (1 up), 1 undergoing UDP Scan
+UDP Scan Timing: About 51.13% done; ETC: 17:33 (0:01:24 remaining)
+Nmap scan report for ishidor-Lenovo-ideapad-310-15ISK (172.16.0.178)
+Host is up (0.000090s latency).
+Not shown: 997 closed ports
+PORT     STATE         SERVICE
+68/udp   open|filtered dhcpc
+631/udp  open|filtered ipp
+5353/udp open|filtered zeroconf
+
+Nmap done: 1 IP address (1 host up) scanned in 194.68 seconds

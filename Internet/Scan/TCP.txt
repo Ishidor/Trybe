@@ -1,0 +1,7 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2019-11-07 17:18 -03
+Nmap scan report for 172.16.0.255
+Host is up (0.0000060s latency).
+All 1000 scanned ports on 172.16.0.255 are filtered
+
+Nmap done: 1 IP address (1 host up) scanned in 0.09 seconds

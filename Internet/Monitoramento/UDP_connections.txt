@@ -1,0 +1,21 @@
+Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+udp        0      0 ishidor-Lenovo-id:43930 gru14s14-in-f2.1e10:443 ESTABLISHED
+udp        0      0 ishidor-Lenovo-id:35912 gru06s29-in-f22.1e1:443 ESTABLISHED
+udp        0      0 ishidor-Lenovo-id:56462 eze03s05-in-f238.1e:443 ESTABLISHED
+udp        0      0 224.0.0.251:mdns        0.0.0.0:*                          
+udp        0      0 224.0.0.251:mdns        0.0.0.0:*                          
+udp        0      0 0.0.0.0:mdns            0.0.0.0:*                          
+udp        0      0 ishidor-Lenovo-id:48444 gru14s07-in-f3.1e10:443 ESTABLISHED
+udp        0      0 ishidor-Lenovo-id:38264 173.194.27.184:443      ESTABLISHED
+udp        0      0 0.0.0.0:40446           0.0.0.0:*                          
+udp        0      0 ishidor-Lenovo-id:52776 gru06s31-in-f3.1e10:443 ESTABLISHED
+udp        0      0 ishidor-Lenovo-id:38540 gru14s07-in-f14.1e1:443 ESTABLISHED
+udp        0      0 ishidor-Lenovo-id:36550 0.0.0.0:*                          
+udp        0      0 ishidor-Lenovo-id:44821 dfw25s34-in-f3.1e10:443 ESTABLISHED
+udp        0      0 ishidor-Lenovo-id:53189 177.74.225.141.cmdn:443 ESTABLISHED
+udp        0      0 localhost:domain        0.0.0.0:*                          
+udp        0      0 0.0.0.0:bootpc          0.0.0.0:*                          
+udp        0      0 0.0.0.0:ipp             0.0.0.0:*                          
+udp6       0      0 [::]:mdns               [::]:*                             
+udp6       0      0 [::]:49781              [::]:*                             

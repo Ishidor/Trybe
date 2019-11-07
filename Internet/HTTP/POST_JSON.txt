@@ -1,0 +1,19 @@
+{
+  "args": {}, 
+  "data": "{\"escola\":\"Trybe\"}", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Content-Length": "18", 
+    "Content-Type": "application/json", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.58.0"
+  }, 
+  "json": {
+    "escola": "Trybe"
+  }, 
+  "method": "POST", 
+  "origin": "177.74.232.139, 177.74.232.139", 
+  "url": "https://httpbin.org/anything"
+}
