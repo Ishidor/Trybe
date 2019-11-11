@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: A picture-perfect trip</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+        
+        <p>I would see scenes like...</p>
+        <img src="https://d36tnp772eyphs.cloudfront.net/blogs/1/2011/05/japan-1200x729.jpg" alt="Pretty white castle with blooming sakura trees and Mt. Fuji in the background." width="100" height="100">
+        <p>And animals like...</p>
+        <img src="https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/shiba-inu-card-small.jpg?bust=1535567967" alt="Standing Shiba Inu" width="100" height="100">
+        <p>And eat food like...</p>
+        <img src="https://static.cuisineaz.com/400x320/i140552-katsudon.jpeg" alt="Bowl of Katsudon (Crispy chicken cutlet with white rice and green onions" width="100" height="100">
+    </body>
+</html>
+
